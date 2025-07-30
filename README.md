@@ -30,4 +30,3 @@ jupyter notebook main.ipynb
 - Dataset: 60,000 training + 10,000 test images
 
 ---
-*ML Summer course project*
